@@ -1,0 +1,823 @@
+Abuse word lists
+================
+
+TOP LIST:
+---------
+404 abuse terms used in "Twits, Twats and Twaddle: Trends in Online Abuse towards UK Politicians", ICWSM 2018, and in "Online abuse of uk mps in 2015 and 2017: Perpetrators, targets, and topics", extended version on arXiv, 2018.
+
+This list is derived from the following sources, plus some semi-automatic corpus-based enrichment and manual editing:
+http://www.bannedwordlist.com/lists/swearWords.txt
+https://www.ofcom.org.uk/__data/assets/pdf_file/0022/91624/OfcomOffensiveLanguage.pdf
+https://www.noswearing.com/dictionary
+https://www.frontgatemedia.com/a-list-of-723-bad-words-to-blacklist-and-how-to-use-facebooks-moderation-tool/
+
+BOTTOM LIST:
+------------
+388 abuse terms used in "Online Abuse of UK MPs from 2015 to 2019: Working Paper", arXiv working paper.
+
+This list is as above but with some further items removed for being low-precision.
+
+
+Warning: offensive language!
+
+************************************
+
+a cock
+anus
+arse bandit
+arsebandit
+arsehole
+ass-hat
+ass-jabber
+ass-pirate
+assbag
+assbandit
+assbite
+assclown
+asscock
+asscracker
+asses
+assface
+assfuck
+assfucker
+assgoblin
+asshat
+asshead
+asshole
+asshopper
+assjacker
+asslick
+asslicker
+assmonkey
+assmunch
+assmuncher
+assnigger
+asspirate
+assshit
+assshole
+asssucker
+asswad
+asswipe
+axewound
+balls
+ballsack
+bampot
+barmpot
+bastard
+batty boy
+beaner
+bellend
+berk
+biatch
+bint
+bitch
+bitchass
+bitches
+bitchtits
+bitchy
+blighter
+boner
+boob
+brotherfucker
+bum boy
+bum clat
+bumblefuck
+butt plug
+butt-pirate
+buttfucka
+buttfucker
+carpetmuncher
+charva
+chav
+chinc
+chink
+chinky
+choad
+chode
+clit
+clitface
+clitfuck
+clunge
+clusterfuck
+cobblers
+cockass
+cockbite
+cockburger
+cockface
+cockfucker
+cockhead
+cockjockey
+cockknoker
+cockmaster
+cockmongler
+cockmongruel
+cockmonkey
+cockmuncher
+cocknose
+cocknugget
+cockshit
+cocksmith
+cocksmoke
+cocksmoker
+cocksniffer
+cocksucker
+cockwaffle
+codger
+coochie
+coochy
+coon
+cooter
+cow
+coward
+cretin
+cripple
+cumbubble
+cumdumpster
+cumguzzler
+cumjockey
+cumslut
+cumtart
+cunnie
+cunt
+cuntass
+cuntface
+cunthole
+cuntlicker
+cuntrag
+cuntslut
+dago
+darky
+deggo
+dick
+dick-sneeze
+dickbag
+dickbeaters
+dickface
+dickfuck
+dickfucker
+dickhead
+dickhole
+dickmonger
+dicks
+dickslap
+dicksucker
+dicktickler
+dickwad
+dickweasel
+dickweed
+dickwod
+die
+dike
+dildo
+dipshit
+divvy
+doochbag
+dookie
+dork
+douche
+douche-fag
+douchebag
+douchewaffle
+duffer
+dumass
+dumb ass
+dumb fuck
+dumbass
+dumbfuck
+dumbshit
+dumshit
+dyke
+eejit
+execute
+executed
+f u c k
+fag
+fagbag
+fagfucker
+faggit
+faggot
+faggotcock
+fagtard
+fanny
+fatass
+flamer
+FU
+fuck off
+fuck you
+fuckass
+fuckbag
+fuckboy
+fuckbrain
+fuckbutt
+fuckbutter
+fucker
+fuckersucker
+fuckface
+fuckhead
+fuckhole
+fucknut
+fucknutt
+fuckoff
+fuckstick
+fucktard
+fucktart
+fuckup
+fuckwad
+fuckwit
+fuckwitt
+fuckyou
+fudgepacker
+gayass
+gaybob
+gaydo
+gayfuck
+gayfuckist
+gaylord
+gaytard
+gaywad
+GFY
+gippo
+git
+golliwog
+gooch
+gook
+gringo
+hang
+heeb
+homo
+homodumbshit
+honkey
+honky
+hung
+idiot
+jackass
+jagoff
+jap
+jerk
+jerkass
+jigaboo
+jizz
+jo cox
+jungle bunny
+junglebunny
+kike
+kill
+kooch
+kootch
+kraut
+kunt
+kyke
+lameass
+lardass
+lesbo
+lezza
+lezzer
+lezzie
+loony
+mcfagget
+minger
+mong
+moron
+moron
+mothafucka
+motherfucker
+muff
+muffdiver
+munter
+muppet
+murder
+murdered
+negro
+nig-nag
+nigaboo
+nigga
+nigger
+niggers
+niglet
+nonce
+numpty
+nut sack
+nutsack
+nutter
+oaf
+paki
+panooch
+pecker
+peckerhead
+penis
+penisbanger
+penisfucker
+penispuffer
+pikey
+pillock
+pish
+piss artist
+piss-artist
+pissflaps
+plonker
+polack
+polesmoker
+pollock
+poof
+poofter
+poon
+poonani
+poonany
+poontang
+porch monkey
+porchmonkey
+prat
+prick
+prickteaser
+psycho
+punani
+punanny
+punta
+pussies
+pussy
+puto
+queef
+queer
+queerbait
+queerhole
+rag head
+raghead
+rape
+raped
+renob
+retard
+rimjob
+rugmuncher
+ruski
+sand nigger
+sandnigger
+schizo
+schlong
+scrote
+scrubber
+scum
+scumbag
+shitass
+shitbag
+shitbagger
+shitbrains
+shitbreath
+shitcunt
+shitdick
+shitface
+shitfaced
+shithead
+shithole
+shithouse
+shitspitter
+shitstain
+shitter
+skank
+skeet
+skullfuck
+slag
+slapper
+slut
+slutbag
+smeg
+smeghead
+sociopath
+son of a bitch
+spic
+spick
+splooge
+spook
+stab
+stabbed
+STFU
+suckass
+tard
+tart
+testicle
+thundercunt
+tit
+tosser
+tranny
+trollop
+turd
+twat
+twatlips
+twats
+twatwaffle
+tyke
+u cock
+unclefucker
+wally
+wank
+wanker
+wankjob
+wassack
+wassock
+wazzock
+wetback
+whore
+whorebag
+whoreface
+wimp
+witch
+wog
+wop
+you cock
+you idiot
+your arse
+your ass
+
+TOTAL: 404
+
+************************************
+
+coward
+dork
+FU
+GFY
+idiot
+moron
+oaf
+STFU
+wimp
+witch
+anus
+your arse
+your ass
+arsehole	strength=medium
+arse bandit	type=homophobic	strength=strong
+arsebandit	type=homophobic	strength=strong
+assbag
+assbandit	type=homophobic	strength=strong
+assbite
+assclown
+asscock
+asscracker
+asses
+assface
+assfuck
+assfucker	type=homophobic	strength=strong
+assgoblin	type=homophobic	strength=strong
+ass-hat
+asshat
+asshead
+asshole
+asshopper
+ass-jabber
+assjacker
+asslick
+asslicker
+assmonkey
+assmunch
+assmuncher
+assnigger	type=racist	strength=strong
+ass-pirate
+asspirate
+assshit
+assshole
+asssucker
+asswad
+asswipe
+axewound
+ballsack
+bampot
+barmpot
+bastard	strength=strong
+batty boy	type=homophobic	strength=strong
+beaner
+bellend	strength=strong
+berk
+biatch
+bint	type=sexist	strength=medium
+bitch	type=sexist	strength=medium
+bitchass
+bitches	type=sexist	strength=strong
+bitchtits
+bitchy
+blighter
+boner
+boob
+brotherfucker
+bumblefuck	type=homophobic	strength=strong
+bum boy	type=homophobic	strength=strong
+bum clat	type=homophobic	strength=strong
+buttfucka	type=homophobic	strength=strong
+buttfucker	type=homophobic	strength=strong
+butt-pirate	type=homophobic	strength=strong
+butt plug
+carpetmuncher	type=homophobic	strength=strong
+charva
+chav
+chinc
+chink	type=racist	strength=strong
+chinky	type=racist	strength=strong
+choad
+chode
+clit
+clitface
+clitfuck
+clunge	strength=strong
+clusterfuck
+cobblers
+a cock	strength=strong
+u cock	strength=strong
+you cock	strength=strong
+cockass	strength=strong
+cockbite	strength=strong
+cockburger	strength=strong
+cockface	strength=strong
+cockfucker	strength=strong
+cockhead	strength=strong
+cockjockey	strength=strong
+cockknoker	strength=strong
+cockmaster	strength=strong
+cockmongler	strength=strong
+cockmongruel	strength=strong
+cockmonkey	strength=strong
+cockmuncher	strength=strong
+cocknose	strength=strong
+cocknugget	strength=strong
+cockshit	strength=strong
+cocksmith	strength=strong
+cocksmoke	strength=strong
+cocksmoker	strength=strong
+cocksniffer	strength=strong
+cocksucker	strength=strong
+cockwaffle	strength=strong
+codger
+coochie
+coochy
+coon	type=racist	strength=strong
+cooter
+cretin	strength=mild
+cripple	strength=medium
+cumbubble
+cumdumpster
+cumguzzler
+cumjockey
+cumslut
+cumtart
+cunnie
+cunt	strength=strong
+cuntass	strength=strong
+cuntface	strength=strong
+cunthole	strength=strong
+cuntlicker	strength=strong
+cuntrag	strength=strong
+cuntslut	strength=strong
+dago	type=racist	strength=strong
+darky	type=racist	strength=strong
+deggo
+dick	strength=strong
+dickbag	strength=strong
+dickbeaters	strength=strong
+dickface	strength=strong
+dickfuck	strength=strong
+dickfucker	strength=strong
+dickhead	strength=strong
+dickhole	strength=strong
+dickmonger	strength=strong
+dicks	strength=strong
+dickslap	strength=strong
+dick-sneeze	strength=strong
+dicksucker	strength=strong
+dicktickler	strength=strong
+dickwad	strength=strong
+dickweasel	strength=strong
+dickweed	strength=strong
+dickwod	strength=strong
+dike
+dildo
+dipshit
+divvy
+doochbag
+dookie
+douche
+douchebag
+douche-fag
+douchewaffle
+duffer
+dumass
+dumb ass
+dumbass
+dumbfuck
+dumb fuck
+dumbshit
+dumshit
+dyke	type=homophobic	strength=strong
+eejit
+fag	type=homophobic	strength=strong
+fagbag	type=homophobic	strength=strong
+fagfucker	type=homophobic	strength=strong
+faggit	type=homophobic	strength=strong
+faggot	type=homophobic	strength=strong
+faggotcock	type=homophobic	strength=strong
+fagtard	type=homophobic	strength=strong
+fanny	strength=strong	strength=strong
+fatass
+flamer
+f u c k	strength=strong
+fuck you	strength=strong
+fuckyou	strength=strong
+fuckass	strength=strong
+fuckbag	strength=strong
+fuckboy	strength=strong
+fuckbrain	strength=strong
+fuckbutt	strength=strong
+fuckbutter	strength=strong
+fucker	strength=strong
+fuckersucker	strength=strong
+fuckface	strength=strong
+fuckhead	strength=strong
+fuckhole	strength=strong
+fucknut	strength=strong
+fucknutt	strength=strong
+fuckoff	strength=strong
+fuck off	strength=strong
+fuckstick	strength=strong
+fucktard	strength=strong
+fucktart	strength=strong
+fuckup	strength=strong
+fuckwad	strength=strong
+fuckwit	strength=strong
+fuckwitt	strength=strong
+fudgepacker	type=homophobic	strength=strong
+gayass	type=homophobic	strength=strong
+gaybob	type=homophobic	strength=strong
+gaydo	type=homophobic	strength=strong
+gayfuck	type=homophobic	strength=strong
+gayfuckist	type=homophobic	strength=strong
+gaylord	type=homophobic	strength=strong
+gaytard	type=homophobic	strength=strong
+gaywad	type=homophobic	strength=strong
+gippo	type=racist	strength=medium
+git	strength=mild
+golliwog	type=racist	strength=strong
+gooch
+gook	type=racist	strength=strong
+gringo
+heeb	type=racist	strength=strong
+homo	type=homophobic	strength=strong
+homodumbshit	type=homophobic	strength=strong
+honky	type=racist	strength=strong
+honkey	type=racist	strength=strong
+you idiot
+jackass
+jagoff
+jap	type=racist	strength=strong
+jerk
+jerkass
+jigaboo
+jizz	strength=strong
+jungle bunny	type=racist	strength=strong
+junglebunny	type=racist	strength=strong
+kike	type=racist	strength=strong
+kooch
+kootch
+kraut	type=racist	strength=mild
+kunt
+kyke	type=racist	strength=strong
+lameass
+lardass
+lesbo	type=homophobic	strength=strong
+lezza	type=homophobic	strength=strong
+lezzer	type=homophobic	strength=strong
+lezzie	type=homophobic	strength=strong
+loony	strength=mild
+mcfagget	type=homophobic	strength=strong
+minger	strength=mild	strength=strong
+mong	strength=strong
+moron
+mothafucka	strength=strong
+motherfucker	strength=strong
+muff
+muffdiver	type=homophobic	strength=strong
+munter	strength=medium
+muppet
+nigaboo	type=racist	strength=strong
+nigga	type=racist	strength=strong
+nigger	type=racist	strength=strong
+niggers	type=racist	strength=strong
+niglet
+nig-nag	type=racist	strength=strong
+nonce	type=homophobic	strength=strong
+numpty
+nut sack
+nutsack
+nutter	strength=mild
+paki	type=racist	strength=strong
+panooch
+pecker
+peckerhead
+penis
+penisbanger
+penisfucker
+penispuffer
+pikey	type=racist	strength=strong
+pillock
+pish
+piss artist
+piss-artist
+pissflaps
+plonker
+polack	type=racist	strength=strong
+polesmoker
+poof	type=homophobic	strength=strong
+poofter	type=homophobic	strength=strong
+pollock
+poon
+poonani
+poonany
+poontang
+porch monkey
+porchmonkey
+prat
+prick	strength=strong
+prickteaser	strength=strong
+psycho	strength=mild
+punanny	strength=strong
+punani	strength=strong
+punta
+pussies	strength=strong
+pussy	strength=strong
+puto
+queef
+queer	type=homophobic	strength=strong
+queerbait	type=homophobic	strength=strong
+queerhole	type=homophobic	strength=strong
+raghead	type=racist	strength=strong
+rag head	type=racist	strength=strong
+renob
+retard	strength=strong
+rimjob
+rugmuncher	type=homophobic	strength=strong
+ruski
+sand nigger	type=racist	strength=strong
+sandnigger	type=racist	strength=strong
+schizo	strength=medium
+schlong
+scrote
+scrubber
+scum
+scumbag
+shitass
+shitbag
+shitbagger
+shitbrains
+shitbreath
+shitcunt
+shitdick
+shitface
+shitfaced
+shithead
+shithole
+shithouse
+shitspitter
+shitstain
+shitter
+skank	type=sexist	strength=strong
+skeet
+skullfuck
+slag	type=sexist	strength=strong
+slapper	type=sexist	strength=mild
+slut	type=sexist	strength=strong
+slutbag	type=sexist	strength=strong
+smeg
+smeghead
+sociopath
+son of a bitch	strength=medium
+spic	type=racist	strength=strong
+spick	type=racist	strength=strong
+splooge
+spook
+suckass
+tart	strength=mild
+tard
+testicle
+thundercunt
+tit	strength=medium
+tosser
+tranny	type=homophobic	strength=strong
+trollop
+turd
+twat	strength=strong
+twatlips	strength=strong
+twats	strength=strong
+twatwaffle	strength=strong
+tyke
+unclefucker
+wally
+wank	strength=strong
+wanker	strength=strong
+wankjob
+wassack
+wassock
+wazzock
+wetback
+whore	type=sexist	strength=strong
+whorebag	type=sexist	strength=strong
+whoreface	type=sexist	strength=strong
+wog	type=racist	strength=strong
+wop	type=racist	strength=strong
+
+TOTAL: 388

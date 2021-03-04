@@ -14,7 +14,7 @@ def Nav():
         [
             dbc.Row(
                 [
-                dbc.NavItem(dbc.NavLink("Application", active=True, href="/user",style={'color': colors['text']})),
+                dbc.NavItem(dbc.NavLink("Hate Speech Automatic Detector", active=True, href="/user",style={'color': colors['text']})),
                 dbc.NavItem(dbc.NavLink("How the algorithm is built", href="/algorithm", style={'color': colors['text']})),
                 ],
                 style={"marginTop": 10, "marginBottom":20}

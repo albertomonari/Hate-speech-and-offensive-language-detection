@@ -1,5 +1,6 @@
 import string
 import nltk
+nltk.download('vader_lexicon')
 import pandas as pd
 import numpy as np
 from textstat.textstat import *
@@ -7,11 +8,8 @@ from nltk.stem.porter import *
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
-import string
 import re
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as VS
-from wordcloud import WordCloud
-from matplotlib import pyplot as plt
 from PIL import Image
 from gensim.test.utils import common_texts
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument

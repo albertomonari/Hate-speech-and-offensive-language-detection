@@ -21,7 +21,7 @@ nav = Nav()
 
 infographic = dbc.Card(
     [
-        dbc.CardHeader(html.H2("How was the algorithm built?"),style={'textAlign': 'center', 'color': colors['text'], 'margin-top':"10px", 'margin-down':"15px"}),
+        dbc.CardHeader(html.H2("How the algorithm is built"),style={'textAlign': 'center', 'color': colors['text'], 'margin-top':"10px", 'margin-down':"15px"}),
         dbc.CardBody(
             html.Img(src='data:image/png;base64,{}'.format(test_base64), width="100%"),
         )
